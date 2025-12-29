@@ -1,95 +1,21 @@
-### Hi there, I'm [Reet Kumar Bind!](https://reetkumarbind.dev) 👋
-
-<p>
-<a href="https://twitter.com/reetmeena">
-   <img align="left" alt="twitter" src="https://img.shields.io/twitter/follow/Reet Kumar Bind?style=for-the-badge&logo=x&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.twitch.tv/reetkumarbind">
-   <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/c/reetkumarbind">
-   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://discord.gg/reetkumarbind">
-   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/reetkumarbind/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-   
+# 💫 About Me:
+🔭 I’m currently working on<br>Designing and maintaining enterprise-grade applications with a strong focus on Java, backend services, and production stability in real-world client environments.<br><br>👯 I’m looking to collaborate on<br>Java-based systems, backend-heavy applications, fintech/utility platforms, and practical full-stack projects that solve measurable business problems.<br><br>🤝 I’m looking for help with<br>Advanced system design, performance optimization, and best practices for building scalable, maintainable enterprise software.<br><br>🌱 I’m currently learning<br>Advanced Java, Spring ecosystem concepts, modern frontend-backend integration, and emerging frameworks aligned with long-term industry demand.<br><br>💬 Ask me about<br>Java fundamentals, real-world software engineering workflows, debugging production issues, and transitioning projects from concept to deployment.<br><br>⚡ Fun fact<br>I believe discipline beats motivation—consistent execution compounds faster than raw talent.<br><br>
 
 
-<p/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/REET KUMAR BIND) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/REET KUMAR BIND) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reetkumarbind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reetkumarbind) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reetkumarbind) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/REETMEENA) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/reetkumarbind) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@REET KUMAR BIND) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetkumarbind@gmail.com) 
 
-<br/>
-<p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=plastic&logo=solid&logoColor=c8c9cb) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Reetkumarbind&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Reetkumarbind&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reetkumarbind&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on [Expo](https://github.com/ngx-builders)
-- 🌱 I’m currently learning Typescript and React Native
-- 💬 Ask me about HTML, Typescript, and React Native, and I will  be working on NodeJS
-- 📫 How to reach me: [@reetmeena](https://twitter.com/reetmeena)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Reetkumarbind&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-# My Story on Google 
-
-[![Creating a better life with Reet Kumar Bind](http://img.youtube.com/vi/RpSdB7BTp_U/0.jpg)](https://youtu.be/RpSdB7BTp_U)
-
-# My Free Angular Course on freeCodeCamp
-
-[![Angular for Beginners Course](http://img.youtube.com/vi/3qBXWUpoPHo/0.jpg)](http://www.youtube.com/watch?v=3qBXWUpoPHo)
-
-# Sponsorship Data (Per/Month in USD)
-
-| Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
-|----------------------|------------------|----------------------|---------|
-| Domains              | 12               |                      |         |
-| Sponsorship Paid     | 184              |                      |         |
-| Sponsorship Received | 0                | 285                  |         |
-| TIL Podcast          | 500              |                      |         |
-| Total                | 696              | 285                  |  -411   |
-
-![Reet Kumar Bind Github Stats](https://github-readme-stats.vercel.app/api?username=Reet Kumar Bind&show_icons=true&include_all_commits=true&theme=radical)
-
-![Reet Kumar Bind Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Reet Kumar Bind&layout=compact&theme=radical)
-
-[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reet Kumar Bind&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
-- [Never forget where you come from](https://dev.to/this-is-learning/never-forget-where-you-come-from-5el1)
-- [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
-- [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
-- [My year in review](https://dev.to/this-is-learning/my-year-in-review-341d)
-- [My Course on Angular Getting Started](https://dev.to/this-is-learning/my-course-on-angular-getting-started-3jec)
-- [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
-- [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
-<!-- BLOG-POST-LIST:END -->
-
-# Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Reet Kumar Bind/Reet Kumar Bind/pull/12) in [Reet Kumar Bind/Reet Kumar Bind](https://github.com/Reet Kumar Bind/Reet Kumar Bind)
-2. 💪 Opened PR [#12](https://github.com/Reet Kumar Bind/Reet Kumar Bind/pull/12) in [Reet Kumar Bind/Reet Kumar Bind](https://github.com/Reet Kumar Bind/Reet Kumar Bind)
-3. ❌ Closed PR [#38](https://github.com/Reet Kumar Bind/portfolio/pull/38) in [Reet Kumar Bind/portfolio](https://github.com/Reet Kumar Bind/portfolio)
-4. 💪 Opened PR [#38](https://github.com/Reet Kumar Bind/portfolio/pull/38) in [Reet Kumar Bind/portfolio](https://github.com/Reet Kumar Bind/portfolio)
-5. 🎉 Merged PR [#37](https://github.com/Reet Kumar Bind/portfolio/pull/37) in [Reet Kumar Bind/portfolio](https://github.com/Reet Kumar Bind/portfolio)
-<!--END_SECTION:activity-->
-
-# Recent Youtube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Debunking the Webpack Myth: Did it Really Go Wrong?](https://ytcards.demolab.com/?id=mH4b7G2Q7E8&title=Debunking+the+Webpack+Myth%3A+Did+it+Really+Go+Wrong%3F&lang=en&timestamp=1725287861&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Debunking the Webpack Myth: Did it Really Go Wrong?")](https://www.youtube.com/watch?v=mH4b7G2Q7E8)
-[![Discover OctoPrint: Support the Crowdfunded Project and Join the Community!](https://ytcards.demolab.com/?id=AwWI8ioU6Mk&title=Discover+OctoPrint%3A+Support+the+Crowdfunded+Project+and+Join+the+Community%21&lang=en&timestamp=1723544903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discover OctoPrint: Support the Crowdfunded Project and Join the Community!")](https://www.youtube.com/watch?v=AwWI8ioU6Mk)
-[![Unlocking the Power of Collaboration: Why Going with Alokai is the Smart Choice](https://ytcards.demolab.com/?id=5SDupoZFXA8&title=Unlocking+the+Power+of+Collaboration%3A+Why+Going+with+Alokai+is+the+Smart+Choice&lang=en&timestamp=1722196246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unlocking the Power of Collaboration: Why Going with Alokai is the Smart Choice")](https://www.youtube.com/watch?v=5SDupoZFXA8)
-[![From Developer to Community Leader   Navigating Career, Burnout, and Tech Talks](https://ytcards.demolab.com/?id=SDjx8tgblvc&title=From+Developer+to+Community+Leader+++Navigating+Career%2C+Burnout%2C+and+Tech+Talks&lang=en&timestamp=1716966980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "From Developer to Community Leader   Navigating Career, Burnout, and Tech Talks")](https://www.youtube.com/watch?v=SDjx8tgblvc)
-[![TIL Conf - Cloud and Backend - Second Half](https://ytcards.demolab.com/?id=ZIDklpmkwf0&title=TIL+Conf+-+Cloud+and+Backend+-+Second+Half&lang=en&timestamp=1716018617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TIL Conf - Cloud and Backend - Second Half")](https://www.youtube.com/watch?v=ZIDklpmkwf0)
-[![TIL Conf - Closing Notes](https://ytcards.demolab.com/?id=YzXkqQ6hgvU&title=TIL+Conf+-+Closing+Notes&lang=en&timestamp=1715975647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TIL Conf - Closing Notes")](https://www.youtube.com/watch?v=YzXkqQ6hgvU)
-[![TIl - Closing note](https://ytcards.demolab.com/?id=b4xWur-8V2E&title=TIl+-+Closing+note&lang=en&timestamp=1715926873&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TIl - Closing note")](https://www.youtube.com/watch?v=b4xWur-8V2E)
-[![Learning Angular With Santosh - Navbar using NG-ZORRO](https://ytcards.demolab.com/?id=JSDnO9_aAbc&title=Learning+Angular+With+Santosh+-+Navbar+using+NG-ZORRO&lang=en&timestamp=1691657217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learning Angular With Santosh - Navbar using NG-ZORRO")](https://www.youtube.com/watch?v=JSDnO9_aAbc)
-[![Lets explore AnalogJS](https://ytcards.demolab.com/?id=4WXJfY4UOtw&title=Lets+explore+AnalogJS&lang=en&timestamp=1691486290&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lets explore AnalogJS")](https://www.youtube.com/watch?v=4WXJfY4UOtw)
-<!-- END YOUTUBE-CARDS -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
